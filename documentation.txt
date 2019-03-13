@@ -1,0 +1,26 @@
+PYTHON PROJECT 
+3rd semester
+
+Enroll. No-161B210
+NAME-Shashank Bankey
+BRANCH-Cse
+BATCH-B7(BZ)
+
+DOCUMENTATION OF PROJECT
+
+First window is splash screen which contains information of developer
+After splash screen 1st window includes bakery menu,toal cost ,subtotal,service charge,tax
+On top of the window the name of the bakery is introduced”DUTCH FARM BAKERY”.
+Below bakery name there are 16 “CHECKBUTTONS” of bakery menu including
+cakes, shakes ,drinks and snacks.
+Each checkbutton have textbox to enter the quantity of the items.
+There are 4 buttons at the right bottom
+#TOTAL-Through this button you can get cost of your items which you have selected in checkbuttons,it also includes Service Charge,Tax,Sub Total.
+#RECEIPT-Through this button you can get your Receipt or Bill of your selected items.
+#RESET-Through this button you can reset the all values.
+#EXIT-through this button you can exit from the window.
+
+#RECEIPT AREA
+this area print all the items,quantity,cost,tax paid,subtotal,total cost.
+
+
